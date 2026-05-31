@@ -1,42 +1,60 @@
-🚀 Excited to share my latest project: DawReek ⚽
+# ⚽ DawReek - Football Analytics & Prediction System
 
-A Football Analytics & Prediction Desktop Application built using Python, Machine Learning, and SQL.
+DawReek is a desktop application built with Python that combines football analytics, match statistics, and machine learning predictions into a modern interactive system.
 
-The project combines:
-🔹 Football statistics
-🔹 Match predictions
-🔹 League tables
-🔹 Fixtures
-🔹 Interactive desktop UI
-🔹 Database integration
+The project provides:
+- Match predictions using Machine Learning
+- Team statistics and league tables
+- Fixtures and match schedules
+- User authentication system
+- Interactive desktop UI
+- Database integration
 
-🛠 Technologies Used:
-• Python
-• CustomTkinter
-• Pandas & NumPy
-• Scikit-learn
-• SQL / pyodbc
+---
 
-🤖 Machine Learning:
-Implemented a prediction system using:
-• Poisson Regression
-• Feature Scaling
-• GridSearchCV
+# 🚀 Features
 
-📊 Key Features:
-✅ Match Predictions
-✅ User Authentication
-✅ League Standings
-✅ Fixtures & Schedules
-✅ Interactive UI
+- 🔐 Login & Signup System
+- ⚽ Football Match Predictions
+- 📊 League Tables & Statistics
+- 📅 Fixtures & Match Scheduling
+- 🤖 Machine Learning Prediction Model
+- 🗄 SQL Database Integration
+- 🎨 Modern Desktop UI using CustomTkinter
 
-This project helped me improve my skills in:
-- Machine Learning
-- Data Analysis
-- Desktop Application Development
-- Database Management
-- UI Design
+---
 
-I’d appreciate your feedback and suggestions! 🙌
+# 🛠 Technologies Used
 
-#Python #MachineLearning #DataScience #FootballAnalytics #DesktopApplication #ScikitLearn #AI #SQL #CustomTkinter
+- Python
+- CustomTkinter
+- Pandas
+- NumPy
+- Scikit-learn
+- SQL / pyodbc
+- Pillow
+- CTkMessagebox
+
+---
+
+# 🤖 Machine Learning
+
+The prediction system uses:
+- Poisson Regression
+- Feature Scaling
+- GridSearchCV
+- Statistical Analysis
+
+to generate football match outcome predictions.
+
+---
+
+# 📂 Project Structure
+
+```bash
+pages/
+utils/
+assets/
+main.py
+Module.py
+state.py
